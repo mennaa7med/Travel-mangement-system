@@ -1,0 +1,21 @@
+
+Customer ID: 12364
+Name: menna
+Age: 125
+Mobile Number: 12369
+Address: hugff
+Gender: femal
+
+Customer ID: 1234
+Name: menna
+Age: 12
+Mobile Number: 12535
+Address: jdjd
+Gender: femal
+
+Customer ID: 656
+Name: menna
+Age: 20
+Mobile Number: 72222
+Address: hhf
+Gender: hfh
